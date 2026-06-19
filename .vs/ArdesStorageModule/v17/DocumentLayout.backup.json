@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Stelyan\\Desktop\\BI Soft Tasks\\II.\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\ArdesStorageModule\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{815DBF86-2A79-446D-9C7F-673DC7B8250A}|ArdesStorageModule\\ArdesStorageModule.csproj|c:\\users\\stelyan\\desktop\\bi soft tasks\\ii.\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\ardesstoragemodule\\ardesstoragemodule\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{815DBF86-2A79-446D-9C7F-673DC7B8250A}|ArdesStorageModule\\ArdesStorageModule.csproj|solutionrelative:ardesstoragemodule\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{815DBF86-2A79-446D-9C7F-673DC7B8250A}|ArdesStorageModule\\ArdesStorageModule.csproj|c:\\users\\stelyan\\desktop\\bi soft tasks\\ii.\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\ardesstoragemodule\\ardesstoragemodule\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{815DBF86-2A79-446D-9C7F-673DC7B8250A}|ArdesStorageModule\\ArdesStorageModule.csproj|solutionrelative:ardesstoragemodule\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{815DBF86-2A79-446D-9C7F-673DC7B8250A}|ArdesStorageModule\\ArdesStorageModule.csproj|c:\\users\\stelyan\\desktop\\bi soft tasks\\ii.\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\ardesstoragemodule\\ardesstoragemodule\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{815DBF86-2A79-446D-9C7F-673DC7B8250A}|ArdesStorageModule\\ArdesStorageModule.csproj|solutionrelative:ardesstoragemodule\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{815DBF86-2A79-446D-9C7F-673DC7B8250A}|ArdesStorageModule\\ArdesStorageModule.csproj|c:\\users\\stelyan\\desktop\\bi soft tasks\\ii.\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\ardesstoragemodule\\ardesstoragemodule\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{815DBF86-2A79-446D-9C7F-673DC7B8250A}|ArdesStorageModule\\ArdesStorageModule.csproj|solutionrelative:ardesstoragemodule\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{815DBF86-2A79-446D-9C7F-673DC7B8250A}|ArdesStorageModule\\ArdesStorageModule.csproj|c:\\users\\stelyan\\desktop\\bi soft tasks\\ii.\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\ardesstoragemodule\\ardesstoragemodule\\reports\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{815DBF86-2A79-446D-9C7F-673DC7B8250A}|ArdesStorageModule\\ArdesStorageModule.csproj|solutionrelative:ardesstoragemodule\\reports\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{815DBF86-2A79-446D-9C7F-673DC7B8250A}|ArdesStorageModule\\ArdesStorageModule.csproj|c:\\users\\stelyan\\desktop\\bi soft tasks\\ii.\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\ardesstoragemodule\\ardesstoragemodule\\data\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{815DBF86-2A79-446D-9C7F-673DC7B8250A}|ArdesStorageModule\\ArdesStorageModule.csproj|solutionrelative:ardesstoragemodule\\data\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Stelyan\\Desktop\\BI Soft Tasks\\II.\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\ArdesStorageModule\\ArdesStorageModule\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ArdesStorageModule\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Stelyan\\Desktop\\BI Soft Tasks\\II.\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\ArdesStorageModule\\ArdesStorageModule\\Models\\Product.cs",
+              "RelativeToolTip": "ArdesStorageModule\\Models\\Product.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T15:39:08.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Stelyan\\Desktop\\BI Soft Tasks\\II.\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\ArdesStorageModule\\ArdesStorageModule\\Program.cs",
+              "RelativeDocumentMoniker": "ArdesStorageModule\\Program.cs",
+              "ToolTip": "C:\\Users\\Stelyan\\Desktop\\BI Soft Tasks\\II.\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\ArdesStorageModule\\ArdesStorageModule\\Program.cs",
+              "RelativeToolTip": "ArdesStorageModule\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T15:36:07.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Stelyan\\Desktop\\BI Soft Tasks\\II.\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\ArdesStorageModule\\ArdesStorageModule\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ArdesStorageModule\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Stelyan\\Desktop\\BI Soft Tasks\\II.\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\ArdesStorageModule\\ArdesStorageModule\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "ArdesStorageModule\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T15:32:19.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Stelyan\\Desktop\\BI Soft Tasks\\II.\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\ArdesStorageModule\\ArdesStorageModule\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ArdesStorageModule\\Repository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Stelyan\\Desktop\\BI Soft Tasks\\II.\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\ArdesStorageModule\\ArdesStorageModule\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "ArdesStorageModule\\Repository\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T15:32:14.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "products.json",
+              "DocumentMoniker": "C:\\Users\\Stelyan\\Desktop\\BI Soft Tasks\\II.\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\ArdesStorageModule\\ArdesStorageModule\\Data\\products.json",
+              "RelativeDocumentMoniker": "ArdesStorageModule\\Data\\products.json",
+              "ToolTip": "C:\\Users\\Stelyan\\Desktop\\BI Soft Tasks\\II.\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\ArdesStorageModule\\ArdesStorageModule\\Data\\products.json",
+              "RelativeToolTip": "ArdesStorageModule\\Data\\products.json",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-19T15:29:23.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Users\\Stelyan\\Desktop\\BI Soft Tasks\\II.\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\ArdesStorageModule\\ArdesStorageModule\\Reports\\ReportService.cs",
+              "RelativeDocumentMoniker": "ArdesStorageModule\\Reports\\ReportService.cs",
+              "ToolTip": "C:\\Users\\Stelyan\\Desktop\\BI Soft Tasks\\II.\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\ArdesStorageModule\\ArdesStorageModule\\Reports\\ReportService.cs",
+              "RelativeToolTip": "ArdesStorageModule\\Reports\\ReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T15:20:57.46Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

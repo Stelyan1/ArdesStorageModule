@@ -1,0 +1,47 @@
+[
+  {
+    "Id": "8f1b7f40-8c4a-4b51-8d62-9cbf5d7a1001",
+    "Name": "NVIDIA GeForce RTX 4070",
+    "Quantity": 8,
+    "Price": 1199.99,
+    "Supplier": "NVIDIA",
+    "CreatedOn": "2026-06-19T12:00:00Z",
+    "UpdatedOn": null
+  },
+  {
+    "Id": "8f1b7f40-8c4a-4b51-8d62-9cbf5d7a1002",
+    "Name": "AMD Ryzen 7 7800X3D",
+    "Quantity": 12,
+    "Price": 749.99,
+    "Supplier": "AMD",
+    "CreatedOn": "2026-06-19T12:00:00Z",
+    "UpdatedOn": null
+  },
+  {
+    "Id": "8f1b7f40-8c4a-4b51-8d62-9cbf5d7a1003",
+    "Name": "Corsair Vengeance 32GB DDR5",
+    "Quantity": 20,
+    "Price": 219.99,
+    "Supplier": "Corsair",
+    "CreatedOn": "2026-06-19T12:00:00Z",
+    "UpdatedOn": null
+  },
+  {
+    "Id": "8f1b7f40-8c4a-4b51-8d62-9cbf5d7a1004",
+    "Name": "Samsung 990 PRO 1TB NVMe SSD",
+    "Quantity": 15,
+    "Price": 189.99,
+    "Supplier": "Samsung",
+    "CreatedOn": "2026-06-19T12:00:00Z",
+    "UpdatedOn": null
+  },
+  {
+    "Id": "8f1b7f40-8c4a-4b51-8d62-9cbf5d7a1005",
+    "Name": "ASUS ROG Strix B650E-F Motherboard",
+    "Quantity": 6,
+    "Price": 399.99,
+    "Supplier": "ASUS",
+    "CreatedOn": "2026-06-19T12:00:00Z",
+    "UpdatedOn": null
+  }
+]
